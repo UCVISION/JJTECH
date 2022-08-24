@@ -6,4 +6,3 @@
     name: *{{ s3_Bucket_Name }}*
     region: eu-west-1
     state: present
-
